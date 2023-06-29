@@ -1,0 +1,39 @@
+[
+  
+  {
+    "id": 0, 
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image1.jpg" 
+  },
+  {
+    "id": 1,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image8.jpg"
+  },
+  {
+    "id": 2,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image4.jpg" 
+  },
+  {
+    "id": 3,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image5.jpg" 
+  },
+  {
+    "id": 4,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image6.jpg" 
+  },
+  {
+    "id": 5,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image7.jpg" 
+  },
+  {
+    "id": 6,
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image3.jpg" 
+  },
+  {
+    "id": 7,
+    "image":"https://images-dev-aa.s3.amazonaws.com/comic-images/image2.jpg"
+  },
+  {
+    "id": 8, 
+    "image": "https://images-dev-aa.s3.amazonaws.com/comic-images/image9.jpg" 
+  }
+]
