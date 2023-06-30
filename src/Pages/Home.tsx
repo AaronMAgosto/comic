@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row, Col, Image, Modal } from "react-bootstrap";
 import AppLayout from '../Layout/AppLayout';
+import OffCanvasSummary from './Cover';
+
 
 interface ImageWithModalProps {
   src: string;
@@ -34,6 +36,7 @@ const Home: React.FC = () => {
   return (
     <AppLayout>
        <div style={{ marginBottom: '20px' }}>
+        <OffCanvasSummary/>
   </div>
       <section>
         <Container fluid className="joker-cover">
