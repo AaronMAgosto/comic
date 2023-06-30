@@ -1,5 +1,5 @@
-.visual-board{
-  background-color: black;
+#root{
+background-color: rgb(89, 179, 239);
 }
 
 .button {
@@ -101,26 +101,3 @@
   transform-origin: right;
 }
 
-.button:hover span:nth-child(3) {
-  right: 50%;
-}
-
-.button span:nth-child(2) {
-  left: calc(50% - 2px);
-  top: -50px;
-  transform-origin: top;
-}
-
-.button:hover span:nth-child(2) {
-  top: 50%;
-}
-
-.button span:nth-child(4) {
-  left: calc(50% - 2px);
-  bottom: -50px;
-  transform-origin: bottom;
-}
-
-.button:hover span:nth-child(4 ) {
-  bottom: 50%;
-}

@@ -35,7 +35,7 @@ const Home: React.FC = () => {
 
   return (
     <AppLayout>
-       <div style={{ marginBottom: '20px' }}>
+       <div style={{ marginBottom: '1px' }}>
         <OffCanvasSummary/>
   </div>
       <section>
